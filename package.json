@@ -1,0 +1,14 @@
+{
+  "name": "change-html-attributes-and-css-styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./tailwind/tailwind.css -o ./css/main.css --watch"
+  },
+  "author": "Amirmohammad Akbarloo",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
